@@ -1,0 +1,8 @@
+sheet1 - #81cbc4
+sheet2 - #fbd982
+sheet3 - #fbd982
+sheet4 - #fbe7b2
+sheet5 - #fbe7b2
+sheet6 - #c9d9f2
+sheet7 - #add57f
+sheet8 - #118a7d
